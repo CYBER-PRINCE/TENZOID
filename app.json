@@ -56,7 +56,7 @@
       "value": ""
     },
     "STRING_SESSION": {
-      "description": "Get this value from https://fridayuserbot.midhunkm1294bit.repl.run",
+      "description": "IMPORTANT WITHOUT THIS USERBOT WIKL NOT WORK 👀❤",
       "value": ""
     },
     "GITHUB_ACCESS_TOKEN": {
@@ -65,8 +65,8 @@
       "required": false
     },
     "GIT_REPO_NAME": {
-      "description": "Your repo name Example: midhunkm1294/Friday, but GITHUB_ACCESS_TOKEN must be setup first.",
-      "value": "https://github.com/Crackexy/CrackBot",
+      "description": "Your repo name Example: CYBER-PRINCE/TENZOID, but GITHUB_ACCESS_TOKEN must be setup first.",
+      "value": "https://github.com/CYBER-PRINCE/TENZOID",
       "required": false
     },
     "HEROKU_API_KEY": {
