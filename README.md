@@ -21,7 +21,9 @@ Best User Bot To Manage Your Telegram Account  :)
 
      Itz easy babe❤👀  support heroku too 😏😏
       
-
+ SPECIAL THANKS TO 
+ @CRACKEXY #CRACKBOT
+ @xditya #telebot. .....
 
 
 ## Heroku 
